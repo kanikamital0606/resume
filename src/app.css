@@ -1,0 +1,60 @@
+h1,
+h2,
+h3,
+h4,
+h5 {
+    border-top: 5ch;
+    border-bottom: 5ch;
+}
+
+h6 {
+    color: #563d7c;
+    font-family: Georgia, "Times New Roman", Times, serif;
+    font-weight: bolder;
+}
+
+hr {
+    border: 2px solid #000;
+}
+
+.img-skills {
+    width: 100px;
+    height: 100px;
+}
+
+.logo {
+    width: 70px;
+}
+
+.contact-links {
+    color: black;
+    text-decoration: none;
+}
+
+.contact-me {
+    font-weight: bold;
+    color: cornflowerblue;
+    font-size: medium;
+}
+
+.dev {
+    font-weight: bold;
+    color: darkmagenta;
+}
+
+.header {
+    background-color: burlywood;
+}
+
+.about {
+    background-color: blue;
+}
+
+.container {
+    background-color: lightgrey;
+    border-left: auto;
+}
+
+.Technologies {
+    background-color: lightgrey;
+}
